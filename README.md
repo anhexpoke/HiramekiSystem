@@ -45,9 +45,17 @@ _1920x1080_
 - このMODの`mod/Interface/exported/widgets/hirameki/HiramekiWidget.swf`
 - [SkyUIのgfxfontlib.swf][ab1a121f]
 
+手順は動画にしたので、こちらからハンズオンで作業してください。  
+**[HiramekiSystemのカットイン画像差し替え手順][ee89c6a5]**  
+
+## flaファイルからswfを作りたい場合
+cloneしたsrcフォルダ内のflaと[ここのCLIKとCommonとHUDWidgetsが必要です。][294da9c5]  
+Flash Pro CS6ならこれらのフォルダにパスを通してFlash11.4用のActionScript2.0でコンパイルするとSkyrimで使えるswfとして出力できます。ただし、かなり条件が厳しいのでうまくいかなくて当たり前だと思って弄ってください。
 
 
 
 [1ceb99f3]: https://twitter.com/Bell_Genson?lang=ja "@Bell_Genson"
 [90e39cc2]: https://www.free-decompiler.com/flash/ "JPEXS Free Flash Decompiler"
 [ab1a121f]: https://github.com/schlangster/skyui/blob/master/build/gfxfontlib.swf "gfxfontlib.swf"
+[ee89c6a5]: https://youtu.be/RXVyVcaeGkk "HiramekiSystemのカットイン画像差し替え手順"
+[294da9c5]: https://github.com/schlangster/skyui/tree/master/src "ここのCLIKとCommonとHUDWidgetsが必要です。"

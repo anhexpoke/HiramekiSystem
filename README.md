@@ -43,8 +43,11 @@ _1920x1080_
 - 960x1080の未圧縮(圧縮しても大丈夫のはず)の差し替えたいpng画像
 - [JPEXS Free Flash Decompiler][90e39cc2]
 - このMODの`mod/Interface/exported/widgets/hirameki/HiramekiWidget.swf`
+- [SkyUIのgfxfontlib.swf][ab1a121f]
+
 
 
 
 [1ceb99f3]: https://twitter.com/Bell_Genson?lang=ja "@Bell_Genson"
 [90e39cc2]: https://www.free-decompiler.com/flash/ "JPEXS Free Flash Decompiler"
+[ab1a121f]: https://github.com/schlangster/skyui/blob/master/build/gfxfontlib.swf "gfxfontlib.swf"

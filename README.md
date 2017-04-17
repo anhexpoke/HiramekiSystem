@@ -1,4 +1,5 @@
 # 閃きシステムMOD
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/anhexpoke/HiramekiSystem/blob/master/LICENSE.md)
 ## 概要
 このMODはSkyrimのスペルに閃き要素を導入します。  
 閃くと、**閃いたスペル名**と**各自が設定した画像**がカットインします。  

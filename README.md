@@ -47,8 +47,7 @@ _1920x1080_
 - このMODの`mod/Interface/exported/widgets/hirameki/HiramekiWidget.swf`
 - [SkyUIのgfxfontlib.swf][ab1a121f]
 
-手順は動画にしたので、こちらからハンズオンで作業してください。  
-**[HiramekiSystemのカットイン画像差し替え手順][ee89c6a5]**  
+動画の公開は終了しました。これはYoutubeに動画をアップすることを再考するためです。
 
 ## flaファイルからswfを作りたい場合
 cloneしたsrcフォルダ内のflaと[ここのCLIKとCommonとHUDWidgetsが必要です。][294da9c5]  
